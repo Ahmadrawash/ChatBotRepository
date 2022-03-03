@@ -9,7 +9,8 @@ to run the program and test it:
 * unzip the "program-ab-0.0.4.3.zip" and then open the folder and click the "run.bat"
 
 to modify it: 
-* unzip the "cmdChatbot" and modify the java code or clone my repository "Chat"
+* unzip the "cmdChatbot" and modify the java code or clone my repository "Chat" at the following link
+* https://github.com/Ahmadrawash/Chat
 
 
 fore the web page which explains about this bot and how to use refer to 
